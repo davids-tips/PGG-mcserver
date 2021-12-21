@@ -1,0 +1,14 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "item/carrot_on_a_stick"
+    },
+    "overrides": [
+        {"predicate": {"custom_model_data": 907001},"model": "box_packer/box_packer_open"},
+        {"predicate": {"custom_model_data": 907002},"model": "box_packer/box_packer_chest"},
+        {"predicate": {"custom_model_data": 907003},"model": "box_packer/box_packer_barrel"},
+        {"predicate": {"custom_model_data": 907004},"model": "box_packer/reinforced_box_packer_open"},
+        {"predicate": {"custom_model_data": 907005},"model": "box_packer/reinforced_box_packer_chest"},
+        {"predicate": {"custom_model_data": 907006},"model": "box_packer/reinforced_box_packer_barrel"}
+    ]
+}

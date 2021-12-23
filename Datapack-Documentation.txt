@@ -8,3 +8,9 @@ Works for any hp amount.
 
 Saves original mob name [works with nametags]
 
+- Zauber Cauldrons
+This module adds a wide range of features to Minecraft's cauldrons, ranging all the way from tier IV potions to magical gear and drinkable wormholes. Zauber Cauldrons acts as a complete package and adds a whole new branch of magic to your game!
+
+Full Documentation[https://wiki.gm4.co/wiki/Zauber_Cauldrons]
+
+- Liquid Tanks/Zauber Liquids

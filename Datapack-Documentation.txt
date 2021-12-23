@@ -1,0 +1,10 @@
+- cw_hp_disp
+
+Download and Documentation link [https://www.planetminecraft.com/data-pack/mob-health-bar-display/]
+
+Benefits.
+
+Works for any hp amount.
+
+Saves original mob name [works with nametags]
+
